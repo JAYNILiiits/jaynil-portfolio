@@ -343,7 +343,7 @@ export default function Portfolio() {
                 IEEE Reviewer
               </div>
               <div className="text-slate-600 dark:text-slate-400 font-medium">
-                2025 ML & Data Science Conference
+                ComComAp’25 (Singapore), FMLDS’25 (Los Angeles),ANTS’25(Delhi)
               </div>
             </div>
 
